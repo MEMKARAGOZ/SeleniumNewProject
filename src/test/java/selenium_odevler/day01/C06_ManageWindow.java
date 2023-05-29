@@ -39,6 +39,7 @@ public class C06_ManageWindow {
                 + driver.manage().window().getSize());
         // 9.Sayfayi kapatin
         driver.quit();
+        // 10.
 
 
     }
