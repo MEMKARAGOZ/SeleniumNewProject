@@ -32,7 +32,6 @@ public class Practise_04 {
             System.out.println("Test PASSED");
         } else System.out.println("Test FAILED");
 
-
         driver.close();
 
     }

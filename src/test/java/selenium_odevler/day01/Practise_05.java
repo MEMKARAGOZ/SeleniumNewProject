@@ -13,7 +13,6 @@ public class Practise_05 {
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-
         /*
         ODEV
         Yeni bir class olusturalim (Homework)
