@@ -59,7 +59,6 @@ public class C02_WebElementLocators {
         ilkUrun.click();
         // sayfayı kapatın
         driver.close();
-
     }
 
 

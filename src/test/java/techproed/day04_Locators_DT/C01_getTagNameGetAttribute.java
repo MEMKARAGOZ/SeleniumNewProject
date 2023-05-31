@@ -36,5 +36,6 @@ public class C01_getTagNameGetAttribute {
             System.out.println("Tested FAILED");
         //sayfayi kapatin
         driver.close();
+
     }
 }
