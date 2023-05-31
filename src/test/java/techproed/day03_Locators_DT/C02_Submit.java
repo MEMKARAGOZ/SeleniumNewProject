@@ -10,7 +10,6 @@ import java.time.Duration;
 public class C02_Submit {
     /*
     https://www.amazon.com sayfasına gidiniz, aramakutusunu locate ediniz ve Nutella aratınız, sayfayı kapatınız
-
      */
 
     public static void main(String[] args) throws InterruptedException {
@@ -25,8 +24,6 @@ public class C02_Submit {
         aramaKutusu.sendKeys("Nutella");
         aramaKutusu.submit();  //Nutella yanina + ENTER yazmak yerine enter isini goren submit'i
         //kullandik.
-
-
 
         Thread.sleep(2000);
         driver.close();
