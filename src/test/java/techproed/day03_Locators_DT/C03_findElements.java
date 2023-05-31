@@ -1,4 +1,4 @@
-package techproed.day03_Lacotors;
+package techproed.day03_Locators_DT;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

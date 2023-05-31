@@ -1,4 +1,4 @@
-package techproed.day03_Lacotors;
+package techproed.day03_Locators_DT;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C01_WebElementLocators {
+public class C01_WebelementLocators {
 /*
 // https://www.amazon.com sayfasına gidiniz
 // aramakutusunu locate ediniz ve Nutella aratınız
